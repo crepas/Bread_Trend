@@ -1,0 +1,9 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+.idea/
+data/raw/*
+data/processed/*
+results/*
+*.ipynb_checkpoints
